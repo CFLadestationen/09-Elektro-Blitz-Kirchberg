@@ -1,0 +1,5 @@
+- SDM630 Modbus vorhanden (extra Kasten neben CF Box) 
+- CF Box mit OpenEVSE
+- Raspbbery PI 2 vorhanden
+- Datenkabel Raspberry (innen) und SDM630 (auﬂen) CAT6 liegt
+- Modbus angeschlossen 
